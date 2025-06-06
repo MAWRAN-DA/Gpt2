@@ -1,0 +1,12 @@
+{
+  "name": "FaselHD",
+  "description": "Plugin to stream movies/anime from FaselHD.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "FaselHD",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/MARWAN-DA/Gpt2/main/FaselHD.cs3"
+    }
+  ]
+}
